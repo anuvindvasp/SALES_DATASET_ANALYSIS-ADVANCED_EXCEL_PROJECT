@@ -1,5 +1,8 @@
 # SALES DATASET ANALYSIS ADVANCED EXCEL PROJECT
 
+![0257787_0257787_sales](https://github.com/user-attachments/assets/b2908b3e-a9e0-4ca1-9177-1361264b6cbd)
+
+
 ## PROJECT OVERVIEW & OBJECTIVES
 
 To analyze  Superstore Sales Data using Advanced Excel techniques to uncover key  trends including sales performance of different product categories, shipping modes, discount impacts and regional contributions.
